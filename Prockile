@@ -1,0 +1,1 @@
+web: node server/index.js  # Change the path as needed
